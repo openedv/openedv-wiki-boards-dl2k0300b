@@ -89,7 +89,7 @@ sidebar_position: 2
 图2.2.2.8 安装MobaXterm软件(5)
 </center>
 
-&emsp;&emsp;&emsp;&emsp;至此，软件安装完成，桌面会自动生成MobaXterm软件快捷方式图标：
+&emsp;&emsp;至此，软件安装完成，桌面会自动生成MobaXterm软件快捷方式图标：
 
 <center>
 ![](./img/2.2.2.9.png)<br />
